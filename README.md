@@ -9,7 +9,7 @@ https://github.com/MRizki28/generate-password.git
 delete folder node_module
 
 
-delete package-log.json
+delete package-lock.json
 
 
 ```bash
