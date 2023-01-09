@@ -21,9 +21,8 @@ npm install -S react-scripts
 ```
 
 ```bash
-npm start
+npm start 
 ```
-
 
 
 
